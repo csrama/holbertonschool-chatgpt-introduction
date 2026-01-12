@@ -1,4 +1,4 @@
-#ChatGPT Debugging Tasks - Summary Report
+ChatGPT Debugging Tasks - Summary Report
 
 Task 1: Factorial Program (factorial.py)
 Objective: Fix an infinite loop bug in a factorial calculation program.
